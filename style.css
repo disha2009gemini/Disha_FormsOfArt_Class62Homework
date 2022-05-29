@@ -1,0 +1,76 @@
+.carousel-inner img{
+    height: 300px;
+    width: 300px;
+}
+
+.container{
+    text-align: center;
+}
+
+.carousel-inner2 img{
+    height: 300px;
+    width: 300px;
+}
+
+.line{
+    background-color: black;
+    width: 80px;
+    height: 3px;
+    margin: 5px auto;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel3 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel4 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel4 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel5 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-top: 30px;
+    color:blue;
+    font-size:30px;
+}
+
+#myCarousel{
+    background-color: aqua;
+}
+
+#myCarousel2{
+    background-color: aquamarine;
+}
+
+#myCarousel3{
+    background-color: blanchedalmond;
+}
+
+#myCarousel4{
+    background-color: cornflowerblue;
+}
+
+#myCarousel5{
+    background-color: cyan;
+}
